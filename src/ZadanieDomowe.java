@@ -3,6 +3,8 @@ public class ZadanieDomowe {
         System.out.println("Uczę");
         System.out.println("się");
         System.out.println("Programowania");
+        System.out.println("i");
+        System.out.println("commitowania");
     }
 
 }
